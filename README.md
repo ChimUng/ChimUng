@@ -26,7 +26,7 @@
 ## 🛠 Tech Stack
 <p align="center">
   <a href="https://github.com/ChimUng">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nextjs,nodejs,mongodb,postgres,redis,aws,docker,linux,kafka,git,github,githubactions,postman,idea,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nextjs,nodejs,mongodb,postgres,redis,aws,docker,cloudflare,kafka,git,github,githubactions,postman,idea,vscode&perline=10" />
   </a>
 </p>
 
